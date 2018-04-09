@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fastjson
 
 [![Build Status](https://travis-ci.org/alibaba/fastjson.svg?branch=master)](https://travis-ci.org/alibaba/fastjson)
@@ -86,3 +87,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+=======
+# test_java
+fastjson
+>>>>>>> 072707b566099952f21a5a7c88ec05beb1a17159
